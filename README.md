@@ -41,12 +41,6 @@ deconstruct and **audit every line** to master the **"why"** behind the logic.
 
 ---
 
-### 📊 Vital Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=ariinromeror&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariinromeror&layout=compact&theme=vision-friendly-dark&hide_border=true)
-
----
 
 ### 📫 Connect with me
 
